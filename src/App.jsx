@@ -57,7 +57,7 @@ export default function App() {
   return (
     <div className="container">
       <header>
-        <h1>🌿 Horta Inteligente</h1>Q
+        <h1>🌿 Horta Inteligente</h1>
       </header>
 
       <main>
