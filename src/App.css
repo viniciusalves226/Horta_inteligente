@@ -9,7 +9,7 @@ body {
 
 /* === Container principal === */
 .container {
-  max-width: 900px;
+  max-width: 90%;
   margin: 30px auto;
   padding: 20px;
   background-color: #ffffff;
@@ -28,13 +28,13 @@ header {
 
 header h1 {
   margin: 0;
-  font-size: 108px;
+  font-size: 158px;
   font-weight: bold;
 
 }
 header h2 {
   margin: 0;
-  font-size: 68px;
+  font-size: 98px;
   font-weight: 600;
 }
 @media (max-width: 768px) {
