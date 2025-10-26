@@ -28,10 +28,24 @@ header {
 
 header h1 {
   margin: 0;
-  font-size: 28px;
+  font-size: 108px;
+  font-weight: bold;
+
+}
+header h2 {
+  margin: 0;
+  font-size: 68px;
   font-weight: 600;
 }
-
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 62px;
+  }
+  header h2 {
+    display: none;
+  }
+  
+}
 /* === Botões === */
 .botoes {
   display: flex;
